@@ -20,7 +20,7 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/your-name/AiON-core.git
+git clone https://github.com/AiON-core/AiON-core.git
 cd AiON-core
 chmod +x start-aion.sh
 ./start-aion.sh
